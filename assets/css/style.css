@@ -102,9 +102,7 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img {
+.content img {
   max-height: 200px;
 }
 
