@@ -24,3 +24,5 @@ code .
 ### Before Refactor
 
 ### After Refactor
+
+![Image after refactor](assets/images/screencapture-after-refactor.png)
