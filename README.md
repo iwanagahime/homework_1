@@ -23,6 +23,8 @@ code .
 
 ### Before Refactor
 
+![Image before refactor](assets/images/screencapture-before-refactor.png "Website before refactor")
+
 ### After Refactor
 
-![Image after refactor](assets/images/screencapture-after-refactor.png)
+![Image after refactor](assets/images/screencapture-after-refactor.png "Website after refactor")
