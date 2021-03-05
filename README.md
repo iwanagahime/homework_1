@@ -6,7 +6,15 @@ Click [here](https://iwanagahime.github.io/homework_1/.) to view project on GitH
 
 ## Description
 
+As a marketing agency we were tasked to refactor the webpage by Horiseon by adding Semantic HTML and making the website more accessible.
+
 ## What did we do?
+
+- Replace HTML generic elements with semantic HTML elements
+- Fixed nav link bug
+- Updated title of webpage for SEO
+- Made images more accessible by adding alt attributes
+- Formatted code using lint (prettier)
 
 ## Getting started
 
