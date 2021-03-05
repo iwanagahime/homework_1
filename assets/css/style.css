@@ -7,7 +7,7 @@
 body {
   background-color: #d9dcd6;
 }
-
+/* Section for header style */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -41,7 +41,7 @@ body {
   display: inline-block;
   margin-left: 25px;
 }
-
+/* Section for link style */
 a {
   color: #ffffff;
   text-decoration: none;
@@ -50,7 +50,7 @@ a {
 p {
   font-size: 16px;
 }
-
+/* Section for background image style */
 .hero {
   height: 800px;
   width: 100%;
@@ -59,6 +59,7 @@ p {
   background-size: cover;
   background-position: center;
 }
+/* Section for main body style */
 
 .float-left {
   float: left;
@@ -91,11 +92,11 @@ p {
   max-height: 200px;
 }
 
-h2 {
+.content h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* Section for sidebar style */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -123,7 +124,7 @@ h2 {
   margin: 10px auto;
   max-width: 150px;
 }
-
+/* Section for footer style */
 .footer {
   padding: 30px;
   clear: both;
