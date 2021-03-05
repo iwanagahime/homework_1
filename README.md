@@ -33,8 +33,12 @@ code .
 
 ### Before Refactor
 
-![Image before refactor](assets/images/website-before-refactor.png)
+![Image before refactor](assets/images/website-before-refactor-1.png)
+![Image before refactor](assets/images/website-before-refactor-2.png)
+![Image before refactor](assets/images/website-before-refactor-3.png)
 
 ### After Refactor
 
-![Image after refactor](assets/images/website-after-refactor.png)
+![Image after refactor](assets/images/website-after-refactor-1.png)
+![Image after refactor](assets/images/website-after-refactor-2.png)
+![Image after refactor](assets/images/website-after-refactor-3.png)
